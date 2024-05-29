@@ -13,7 +13,7 @@
 
 - 👨‍💻 Always brewin' a new idea into a project
 
-- 💬 Currently working on my portfolio website!😉
+- 💬 Currently working on building my portfolio website using Angular!😉
 
 - 😄 Pronouns: He/Him
 
