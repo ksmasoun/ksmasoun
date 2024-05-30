@@ -15,8 +15,6 @@
 
 - 💬 Currently working on building my portfolio website using Angular!😉
 
-- 😄 Pronouns: He/Him
-
 - 💪🏼 Fav Quote: "What you choose to focus on becomes your reality".
 
 <br>
