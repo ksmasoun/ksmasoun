@@ -8,7 +8,7 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 Junior at `Sheridan College` pursuing `Computer Science`.
+- 🔭 Final Year Student at `Sheridan College` pursuing `Computer Science`.
 - 👨‍💻 Always brewin' a new idea into a project
 
 ## Frontend Development:
