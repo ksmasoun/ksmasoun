@@ -8,7 +8,6 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 Final Year Student at `Sheridan College` pursuing `Computer Science`.
 - 👨‍💻 Always brewin' a new idea into a project
 
 ## Frontend Development:
@@ -57,7 +56,7 @@
     <tr>
       <td><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=ksmasoun&theme=tokyonight&show_icons=true&count_private=true"></td>
       <td><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksmasoun&theme=tokyonight&show_icons=true&layout=compact"></td>
-      <td><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ksmasoun&theme=tokyonight&hide_border=true"></td>
+      <td><img width="460" height="150" src="[https://github-readme-streak-stats.herokuapp.com/?user=ksmasoun&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com?user=ksmasoun&theme=burnt-neon&hide_border=true)"></td>
     </tr>
   </table>
 </details>
